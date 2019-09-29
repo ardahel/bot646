@@ -1,0 +1,23 @@
+{
+  "name": "serie_qc_bot_v1_0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "figlet": "^1.2.1",
+    "node": "^12.10.0",
+    "node.js": "0.0.0",
+    "opusscript": "0.0.7",
+    "request": "^2.88.0",
+    "superagent": "^5.1.0",
+    "ytdl-core": "^0.29.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ardahel",
+  "license": "MIT"
+}
